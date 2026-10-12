@@ -1,7 +1,7 @@
 # Fashion and Clothing Website
 
 ## Objective
-To develop a basic, responsive fashion and clothing website using HTML and CSS for the Mid-Semester Web Development project[cite: 1, 2].
+To develop a basic, responsive fashion and clothing website using HTML and CSS for the Mid-Semester Web Development project.
 
 ## Features
 * Clean and simple navigation menu
@@ -15,7 +15,7 @@ To develop a basic, responsive fashion and clothing website using HTML and CSS f
 
 ## Setup Instructions
 1. Download or clone this repository.
-2. Open the `mse1.html` file in any web browser to view the website.
+2. Open the `index.html` file in any web browser to view the website.
 
 ## Deployed Link
-[Insert your Vercel deployment link here after deploying]
+[Fashion Store Deployed Link](https://fashion-store-chi.vercel.app)
